@@ -1,0 +1,13 @@
+{
+  "name": "LANC decoder",
+  "apiVersion": "1.0.0",
+  "author": "miahi",
+  "version": "1.0.0",
+  "description": "",
+  "extensions": {
+    "LANC decoder": {
+      "type": "HighLevelAnalyzer",
+      "entryPoint": "HighLevelAnalyzer.Lanc"
+    }
+  }
+}
