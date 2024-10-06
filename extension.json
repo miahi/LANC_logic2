@@ -2,7 +2,7 @@
   "name": "LANC decoder",
   "apiVersion": "1.0.0",
   "author": "miahi",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "extensions": {
     "LANC decoder": {
