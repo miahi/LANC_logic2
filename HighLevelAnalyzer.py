@@ -400,7 +400,6 @@ class Lanc(HighLevelAnalyzer):
 
         # Return the data frame
         return AnalyzerFrame('mytype', frame.start_time, frame.end_time, {
-            'input_type': frame.type,
             'inv': inv_formatted,
             'binary': binary,
             'command': command,
